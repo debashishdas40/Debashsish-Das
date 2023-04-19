@@ -1,4 +1,4 @@
-![logo](https://github.com/debashishdas40/Debashsish-Das/blob/main/top-banner.png)
+
 <h1 align="center">Hi 👋, I'm Debashish Das</h1>
 <h3 align="center"> Experience in Data Science with 1 Year Internship in DataScience with proficiency in Python, SQL, Tableau, Power BI Skilled.</h3>
  
